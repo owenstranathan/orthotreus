@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="408.92525"
-     inkscape:cy="187.40753"
+     inkscape:cx="431.37126"
+     inkscape:cy="104.75913"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -547,8 +547,8 @@
        id="rect3723-5-0-3-1-7-9-9-4-1-5-38"
        width="13.443934"
        height="13.444088"
-       x="205.38007"
-       y="195.02953"
+       x="205.38005"
+       y="195.02951"
        style="fill:none;fill-opacity:0.45882353;stroke:#0000fe;stroke-width:0.04991242;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:transform-center-x="-2.3965454"
        inkscape:transform-center-y="16.77568" />
@@ -557,17 +557,17 @@
        id="rect4530-4-0-0-6-8-4-1-9-3-9-5"
        width="18.204851"
        height="18.204851"
-       x="202.9996"
-       y="192.73225" />
+       x="202.99959"
+       y="192.73224" />
     <text
        id="text5520-3-5-4-7-4-6-8-5-0-9-38-0"
        y="203.03568"
-       x="6.8228416"
+       x="6.8228412"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.26458332"
          y="203.03568"
-         x="6.8228416"
+         x="6.8228412"
          id="tspan5518-0-6-1-2-3-0-3-2-4-4-8-6"
          sodipodi:role="line">Tab</tspan></text>
     <rect
@@ -600,23 +600,23 @@
     <text
        id="text5520-3-5-4-7-4-6-8-5-0-9-6"
        y="200.74783"
-       x="207.06984"
+       x="207.06982"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.26458332"
          y="200.74783"
-         x="207.06984"
+         x="207.06982"
          id="tspan5518-0-6-1-2-3-0-3-2-4-4-3"
          sodipodi:role="line">{</tspan></text>
     <text
        id="text5520-3-5-4-7-4-6-8-5-0-9-387-2"
        y="206.45297"
-       x="206.95872"
+       x="206.95871"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.26458332"
          y="206.45297"
-         x="206.95872"
+         x="206.95871"
          id="tspan5518-0-6-1-2-3-0-3-2-4-4-1-9"
          sodipodi:role="line">[</tspan></text>
     <rect
@@ -1022,12 +1022,12 @@
          sodipodi:role="line">_</tspan></text>
     <text
        id="text5520-3-5-4-7-4-6-8-5-0-9-38-1-20-7-31-0"
-       y="188.14502"
+       y="187.10405"
        x="207.15524"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.26458332"
-         y="188.14502"
+         y="187.10405"
          x="207.15524"
          id="tspan5518-0-6-1-2-3-0-3-2-4-4-8-5-3-0-8-9"
          sodipodi:role="line">-</tspan></text>
@@ -1676,31 +1676,15 @@
          x="191.77948"
          id="tspan5518-0-6-1-2-3-0-3-2-4-0-1-7"
          sodipodi:role="line" /></text>
-    <rect
-       id="rect3723-5-0-3-1-7-9-9-4-1-5-38-2-5"
-       width="13.443934"
-       height="13.444088"
-       x="205.38007"
-       y="231.43925"
-       style="fill:none;fill-opacity:0.45882353;stroke:#0000fe;stroke-width:0.04991242;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:transform-center-x="-2.3965454"
-       inkscape:transform-center-y="16.77568" />
-    <rect
-       style="fill:none;stroke:#0000fe;stroke-width:0.05139792;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4530-4-0-0-6-8-4-1-9-3-9-5-8-9"
-       width="18.204853"
-       height="18.204853"
-       x="202.99959"
-       y="229.14198" />
     <text
        id="text5520-3-5-4-7-4-6-8-5-0-9-38-0-7-8"
        y="239.5285"
-       x="6.752286"
+       x="6.7522855"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.26458332"
          y="239.5285"
-         x="6.752286"
+         x="6.7522855"
          id="tspan5518-0-6-1-2-3-0-3-2-4-4-8-6-3-6"
          sodipodi:role="line">Shft</tspan></text>
     <rect
@@ -1785,28 +1769,6 @@
          x="170.37866"
          id="tspan5518-0-6-1-2-3-0-3-2-4-4-1-9-0-0-4-6"
          sodipodi:role="line">.</tspan></text>
-    <text
-       id="text5520-3-5-4-7-4-6-8-5-0-9-6-7"
-       y="237.15755"
-       x="206.88216"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.26458332"
-         y="237.15755"
-         x="206.88216"
-         id="tspan5518-0-6-1-2-3-0-3-2-4-4-3-5"
-         sodipodi:role="line">}</tspan></text>
-    <text
-       id="text5520-3-5-4-7-4-6-8-5-0-9-387-2-0"
-       y="242.7796"
-       x="207.12169"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.26458332"
-         y="242.7796"
-         x="207.12169"
-         id="tspan5518-0-6-1-2-3-0-3-2-4-4-1-9-0"
-         sodipodi:role="line">]</tspan></text>
     <rect
        id="rect3723-1-0-8-6"
        width="13.443934"
@@ -1825,13 +1787,13 @@
        y="247.34683" />
     <text
        id="text5520-1-4-2-2"
-       y="257.34885"
-       x="24.841427"
+       y="257.61346"
+       x="24.95713"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.26458332"
-         y="257.34885"
-         x="24.841427"
+         y="257.61346"
+         x="24.95713"
          id="tspan5518-7-4-5-2"
          sodipodi:role="line">Super</tspan></text>
     <rect
@@ -1852,13 +1814,13 @@
        y="247.34685" />
     <text
        id="text5520-3-3-7-3-7"
-       y="257.75455"
-       x="43.186176"
+       y="258.319"
+       x="43.229015"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.26458332"
-         y="257.75455"
-         x="43.186176"
+         y="258.319"
+         x="43.229015"
          id="tspan5518-0-8-2-2-8"
          sodipodi:role="line">Alt</tspan></text>
     <text
@@ -1890,13 +1852,13 @@
        y="247.34685" />
     <text
        id="text5520-3-5-4-4-2-3-4"
-       y="257.68048"
-       x="79.469826"
+       y="258.31903"
+       x="79.391762"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.26458332"
-         y="257.68048"
-         x="79.469826"
+         y="258.31903"
+         x="79.391762"
          id="tspan5518-0-6-1-7-8-4-5"
          sodipodi:role="line">Fn</tspan></text>
     <rect
@@ -1917,13 +1879,13 @@
        y="247.34685" />
     <text
        id="text5520-3-5-4-7-1-1-3-2"
-       y="257.40176"
-       x="97.651924"
+       y="258.2767"
+       x="97.596626"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.26458332"
-         y="257.40176"
-         x="97.651924"
+         y="258.2767"
+         x="97.596626"
          id="tspan5518-0-6-1-2-0-1-7-4"
          sodipodi:role="line">Bksp</tspan></text>
     <rect
@@ -1942,22 +1904,6 @@
        height="18.204851"
        x="111.97535"
        y="247.34685" />
-    <rect
-       id="rect3723-5-0-3-1-7-9-8-7-9-2"
-       width="13.443934"
-       height="13.444088"
-       x="132.56065"
-       y="249.6441"
-       style="fill:none;fill-opacity:0.45882353;stroke:#0000fe;stroke-width:0.04991242;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:transform-center-x="-2.3965454"
-       inkscape:transform-center-y="16.77568" />
-    <rect
-       style="fill:none;stroke:#0000fe;stroke-width:0.05139792;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4530-4-0-0-6-8-4-18-0-3-5"
-       width="18.204851"
-       height="18.204851"
-       x="130.18019"
-       y="247.34683" />
     <rect
        id="rect3723-5-0-3-1-7-9-9-9-1-5-8"
        width="13.443934"
@@ -2084,26 +2030,26 @@
        y="247.34683" />
     <text
        id="text5520-3-5-4-7-4-6-8-5-0-9-6-9-8-2-1"
-       y="255.8623"
-       x="188.73689"
+       y="255.22034"
+       x="188.91846"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.26458332"
-         y="255.8623"
-         x="188.73689"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.26458332"
+         y="255.22034"
+         x="188.91846"
          id="tspan5518-0-6-1-2-3-0-3-2-4-4-3-0-3-7-8"
-         sodipodi:role="line">Prnt</tspan></text>
+         sodipodi:role="line">Print</tspan></text>
     <text
        id="text5520-3-5-4-7-4-6-8-5-0-9-387-2-0-6-1-3"
-       y="259.4563"
-       x="188.64883"
+       y="258.28516"
+       x="188.8304"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.26458332"
-         y="259.4563"
-         x="188.64883"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.26458332"
+         y="258.28516"
+         x="188.8304"
          id="tspan5518-0-6-1-2-3-0-3-2-4-4-1-9-0-0-4-79"
-         sodipodi:role="line">Scrn</tspan></text>
+         sodipodi:role="line">Screen</tspan></text>
     <text
        id="text5520-3-5-4-7-4-6-8-5-0-9-6-9-8-2-0-0"
        y="255.35254"
@@ -2138,36 +2084,25 @@
          y="272.8497"
          style="stroke-width:0.26458332" /></text>
     <text
-       id="text5520-3-5-4-7-1-1-3-2-9"
-       y="258.24701"
-       x="134.09123"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.26458332"
-         y="258.24701"
-         x="134.09123"
-         id="tspan5518-0-6-1-2-0-1-7-4-6"
-         sodipodi:role="line">Del</tspan></text>
-    <text
        id="text5520-3-5-4-7-1-1-3-2-9-1"
        y="258.27667"
-       x="152.06862"
+       x="152.21118"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.26458332"
          y="258.27667"
-         x="152.06862"
+         x="152.21118"
          id="tspan5518-0-6-1-2-0-1-7-4-6-7"
          sodipodi:role="line">Break</tspan></text>
     <text
        id="text5520-3-5-4-7-1-1-3-2-9-1-4"
-       y="257.5762"
-       x="206.96683"
+       y="258.27667"
+       x="206.94214"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.26458332"
-         y="257.5762"
-         x="206.96683"
+         y="258.27667"
+         x="206.94214"
          id="tspan5518-0-6-1-2-0-1-7-4-6-7-9"
          sodipodi:role="line">Ins</tspan></text>
     <text
@@ -2216,59 +2151,37 @@
          sodipodi:role="line">🡣</tspan></text>
     <text
        id="text5520-3-5-4-7-4-0-0-0-26-1"
-       y="217.63257"
+       y="217.3983"
        x="177.70889"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.26458332"
-         y="217.63257"
+         y="217.3983"
          x="177.70889"
          id="tspan5518-0-6-1-2-3-9-1-7-9-4"
          sodipodi:role="line">🡢</tspan></text>
     <text
        id="text5520-3-5-4-7-1-1-3-2-9-3"
-       y="198.53401"
-       x="213.47427"
+       y="198.45084"
+       x="212.64432"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.26458332"
-         y="198.53401"
-         x="213.47427"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.26458332"
+         y="198.45084"
+         x="212.64432"
          sodipodi:role="line"
-         id="tspan1999">Pg</tspan></text>
+         id="tspan1999">Page</tspan></text>
     <text
        id="text5520-3-5-4-7-1-1-3-2-9-3-5"
-       y="201.36415"
-       x="213.48839"
+       y="200.7518"
+       x="214.64384"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.26458332"
-         y="201.36415"
-         x="213.48839"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.26458332"
+         y="200.7518"
+         x="214.64384"
          sodipodi:role="line"
          id="tspan1999-0">Up</tspan></text>
-    <text
-       id="text5520-3-5-4-7-1-1-3-2-9-3-2"
-       y="234.86063"
-       x="211.44307"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.26458332"
-         y="234.86063"
-         x="211.44307"
-         sodipodi:role="line"
-         id="tspan1999-4">Pg</tspan></text>
-    <text
-       id="text5520-3-5-4-7-1-1-3-2-9-3-5-0"
-       y="237.69077"
-       x="211.45718"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.26458332"
-         y="237.69077"
-         x="211.45718"
-         sodipodi:role="line"
-         id="tspan1999-0-7">Dwn</tspan></text>
     <text
        id="text5520-3-5-4-7-4-6-8-5-0-9-38-1-20-7-64-6"
        y="188.2662"
@@ -2282,21 +2195,21 @@
          sodipodi:role="line">⏯</tspan></text>
     <text
        id="text5520-3-5-4-7-4-6-8-5-0-9-38-0-7-8-0"
-       y="275.93826"
-       x="97.77655"
+       y="276.48157"
+       x="97.776535"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.26458332"
-         y="275.93826"
-         x="97.77655"
+         y="276.48157"
+         x="97.776535"
          id="tspan5518-0-6-1-2-3-0-3-2-4-4-8-6-3-6-31"
          sodipodi:role="line">Shft</tspan></text>
     <rect
        id="rect3723-5-0-3-1-7-9-9-4-1-5-3-1-1-3-5"
        width="13.443934"
        height="13.444088"
-       x="96.150955"
-       y="267.93213"
+       x="96.150986"
+       y="267.9321"
        style="fill:none;fill-opacity:0.45882353;stroke:#0000fe;stroke-width:0.04991242;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:transform-center-x="-2.3965454"
        inkscape:transform-center-y="16.77568" />
@@ -2305,25 +2218,25 @@
        id="rect4530-4-0-0-6-8-4-1-9-3-9-6-2-2-3-8"
        width="18.204853"
        height="18.204853"
-       x="93.7705"
-       y="265.55173" />
+       x="93.770523"
+       y="265.5517" />
     <text
        id="text5520-3-5-4-7-4-6-8-5-0-9-38-0-7-8-0-8"
-       y="275.93826"
-       x="115.98141"
+       y="276.48157"
+       x="115.8015"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.26458332"
-         y="275.93826"
-         x="115.98141"
+         y="276.48157"
+         x="115.8015"
          id="tspan5518-0-6-1-2-3-0-3-2-4-4-8-6-3-6-31-9"
          sodipodi:role="line">Enter</tspan></text>
     <rect
        id="rect3723-5-0-3-1-7-9-9-4-1-5-3-1-1-3-5-0"
        width="13.443934"
        height="13.444088"
-       x="114.3558"
-       y="267.93213"
+       x="114.35579"
+       y="267.9321"
        style="fill:none;fill-opacity:0.45882353;stroke:#0000fe;stroke-width:0.04991242;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:transform-center-x="-2.3965454"
        inkscape:transform-center-y="16.77568" />
@@ -2333,7 +2246,7 @@
        width="18.204855"
        height="18.204855"
        x="111.97536"
-       y="265.55173" />
+       y="265.5517" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.19160092;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 142.49613,223.57647 v 0.57959 h 0.50437 l 0.48888,0.48888 v -1.53744 l -0.46786,0.46787 z"
@@ -2491,5 +2404,114 @@
        d="m 51.994956,252.23567 v 0.80563 h 0.70107 l 0.67954,0.67954 v -2.13703 l -0.65032,0.65034 z"
        id="path2642-5"
        inkscape:connector-curvature="0" />
+    <rect
+       id="rect3723-5-0-3-1-7-9-8-7-9-2"
+       width="13.443934"
+       height="13.444088"
+       x="132.56067"
+       y="249.64412"
+       style="fill:none;fill-opacity:0.45882353;stroke:#0000fe;stroke-width:0.04991242;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:transform-center-x="-2.3965454"
+       inkscape:transform-center-y="16.77568" />
+    <rect
+       style="fill:none;stroke:#0000fe;stroke-width:0.05139792;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4530-4-0-0-6-8-4-18-0-3-5"
+       width="18.204851"
+       height="18.204851"
+       x="130.18021"
+       y="247.34685" />
+    <text
+       id="text5520-3-5-4-7-1-1-3-2-9"
+       y="258.27667"
+       x="134.0063"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.26458332"
+         y="258.27667"
+         x="134.0063"
+         id="tspan5518-0-6-1-2-0-1-7-4-6"
+         sodipodi:role="line">Del</tspan></text>
+    <rect
+       id="rect3723-5-0-3-1-7-9-9-4-1-5-38-2-5"
+       width="13.443934"
+       height="13.444088"
+       x="205.38007"
+       y="231.43924"
+       style="fill:none;fill-opacity:0.45882353;stroke:#0000fe;stroke-width:0.04991242;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:transform-center-x="-2.3965454"
+       inkscape:transform-center-y="16.77568" />
+    <rect
+       style="fill:none;stroke:#0000fe;stroke-width:0.05139792;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4530-4-0-0-6-8-4-1-9-3-9-5-8-9"
+       width="18.204853"
+       height="18.204853"
+       x="202.99959"
+       y="229.14197" />
+    <text
+       id="text5520-3-5-4-7-4-6-8-5-0-9-6-7"
+       y="237.15753"
+       x="206.88216"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.26458332"
+         y="237.15753"
+         x="206.88216"
+         id="tspan5518-0-6-1-2-3-0-3-2-4-4-3-5"
+         sodipodi:role="line">}</tspan></text>
+    <text
+       id="text5520-3-5-4-7-4-6-8-5-0-9-387-2-0"
+       y="242.7796"
+       x="207.12169"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.26458332"
+         y="242.7796"
+         x="207.12169"
+         id="tspan5518-0-6-1-2-3-0-3-2-4-4-1-9-0"
+         sodipodi:role="line">]</tspan></text>
+    <text
+       id="text5520-3-5-4-7-1-1-3-2-9-3-2"
+       y="234.8606"
+       x="212.64432"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.26458332"
+         y="234.8606"
+         x="212.64432"
+         sodipodi:role="line"
+         id="tspan1999-4">Page</tspan></text>
+    <text
+       id="text5520-3-5-4-7-1-1-3-2-9-3-5-0"
+       y="237.16156"
+       x="211.94635"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.26458332"
+         y="237.16156"
+         x="211.94635"
+         sodipodi:role="line"
+         id="tspan1999-0-7">Down</tspan></text>
+    <text
+       id="text5520-3-5-4-7-1-1-3-2-9-3-5-0-4"
+       y="243.05713"
+       x="213.91429"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99202108px;line-height:1.25;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18700132"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.99468088px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.18700132"
+         y="243.05713"
+         x="213.91429"
+         sodipodi:role="line"
+         id="tspan1999-0-7-4">End</tspan></text>
+    <text
+       id="text5520-3-5-4-7-1-1-3-2-9-3-5-0-4-1"
+       y="206.64597"
+       x="211.6172"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.16901398px;line-height:1.25;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19806337"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11267614px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.19806337"
+         y="206.64597"
+         x="211.6172"
+         sodipodi:role="line"
+         id="tspan1999-0-7-4-3">Home</tspan></text>
   </g>
 </svg>
